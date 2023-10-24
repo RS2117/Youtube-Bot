@@ -10,7 +10,3 @@ options.add_argument("user-data-dir=C:\\Users\\User\\AppData\\Local\Google\\Chro
 options.binary_location = "C:\\Program Files\\Google\\Chrome Beta\\Application\\chrome.exe"
 
 but double backslace
-
-download chrom drivers from
-
-https://googlechromelabs.github.io/chrome-for-testing/
